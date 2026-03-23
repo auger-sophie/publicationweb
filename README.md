@@ -1,4 +1,4 @@
-# DGX6133 / H2 / P2 : La publication web
+# DGX6133 / H26 / P2 : La publication web
 
 Ce projet vous invite à réfléchir à la manière dont un contenu éditorial se transforme lorsqu’il passe du support imprimé au format numérique. Vous devrez traduir votre publication imprimée du projet 1 en une publication numérique, en tenant compte des propriétés spécifiques du web (typographie à l'écran, interactivité, animation, audio, hyperliens, scroll infini, pop-ups, etc).
 
